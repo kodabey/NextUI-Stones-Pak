@@ -1,0 +1,11 @@
+{
+  "name": "Stones",
+  "version": "v1.0",
+  "type": "TOOL",
+  "description": "Go (囲碁) for the TrimUI Brick: four AI opponents, hints, live win chance, hot-seat play.",
+  "author": "kodabey",
+  "repo_url": "https://github.com/kodabey/NextUI-Stones-Pak",
+  "release_filename": "Stones.pakz",
+  "platforms": ["tg5040"],
+  "launch": "launch.sh"
+}
